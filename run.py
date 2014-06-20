@@ -1,5 +1,6 @@
 import nose
 import sys
+# modify loop as what you want.
 loop = 1
 if sys.argv[1] == '--loop':
     loop = sys.argv[2]
